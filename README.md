@@ -1,1 +1,1 @@
-# abstract_generator
+# Abstract Art Generator
